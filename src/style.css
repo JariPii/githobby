@@ -1,16 +1,1 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body {
-  background-color: gray;
-}
-
-.header-container {
-  height: 10svh;
-  border-bottom: 2px solid;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+*{margin:0;padding:0;box-sizing:border-box}body{background-color:gray}.header-container{height:20svh;border-bottom:2px solid;display:flex;align-items:center;justify-content:center}.header-container .title-container{background-color:#ff0;border:8px solid;border-radius:50%;height:18svh;width:25svw;display:flex;align-items:center;justify-content:center}.header-container .title-container h1{font-size:3rem;color:#000}/*# sourceMappingURL=style.css.map */
