@@ -28,4 +28,27 @@ body {
 .header-container .title-container h1 {
   font-size: 3rem;
   color: black;
+}
+
+main {
+  background-color: blue;
+  height: 80svh;
+  width: 100svw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .charcater-card-container {
+  height: 40svh;
+  width: 20svw;
+  background-color: pink;
+  border: 1px solid green;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+main .charcater-card-container__charName {
+  width: 100%;
+  color: white;
+  border: 1px solid;
 }/*# sourceMappingURL=style.max.css.map */
