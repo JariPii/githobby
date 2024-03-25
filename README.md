@@ -9,7 +9,7 @@ Inlämingen kommer att bestå av ett projekt, (förslagsvis med hjälp av parcel
 ### För betyg G:
 
 1. Använda grundläggande kommandon i git såsom add, commit och merge
-2. Ni behöver ha använt minst två ny a branches
+2. Ni behöver ha använt minst två nya branches
 3. Ni behöver ha gjort minst en merge till main (som är den branch jag komemr att rätta)
 
 ### För betyg VG:
