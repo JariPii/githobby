@@ -6,3 +6,11 @@
 body {
   background-color: gray;
 }
+
+.header-container {
+  height: 10svh;
+  border-bottom: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
