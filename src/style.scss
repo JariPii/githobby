@@ -39,8 +39,8 @@ main {
   align-items: center;
   justify-content: center;
 
-  .charcater-card-container {
-    height: 40svh;
+  .character-card-container {
+    height: 10rem;
     width: 20svw;
     background-color: pink;
     border: 1px solid green;
@@ -50,8 +50,20 @@ main {
 
     &__charName {
       width: 100%;
+      height: 25%;
       color: white;
       border: 1px solid;
+    }
+
+    &__charImg {
+      width: 100%;
+      height: 40%;
+    }
+
+    &__charInfo {
+      background-color: aliceblue;
+      height: 35%;
+      width: 100%;
     }
   }
 }

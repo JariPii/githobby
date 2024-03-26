@@ -38,8 +38,8 @@ main {
   align-items: center;
   justify-content: center;
 }
-main .charcater-card-container {
-  height: 40svh;
+main .character-card-container {
+  height: 10rem;
   width: 20svw;
   background-color: pink;
   border: 1px solid green;
@@ -47,8 +47,18 @@ main .charcater-card-container {
   align-items: center;
   flex-direction: column;
 }
-main .charcater-card-container__charName {
+main .character-card-container__charName {
   width: 100%;
+  height: 25%;
   color: white;
   border: 1px solid;
+}
+main .character-card-container__charImg {
+  width: 100%;
+  height: 40%;
+}
+main .character-card-container__charInfo {
+  background-color: aliceblue;
+  height: 35%;
+  width: 100%;
 }/*# sourceMappingURL=style.max.css.map */
