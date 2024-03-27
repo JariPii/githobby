@@ -39,8 +39,13 @@ main {
   align-items: center;
   justify-content: center;
 
+<<<<<<< HEAD
   .character-card-container {
     height: 10rem;
+=======
+  .charcater-card-container {
+    height: 40svh;
+>>>>>>> e67417fb4419cb53e753c67ab722aebcac820561
     width: 20svw;
     background-color: pink;
     border: 1px solid green;
@@ -50,6 +55,7 @@ main {
 
     &__charName {
       width: 100%;
+<<<<<<< HEAD
       height: 25%;
       color: white;
       border: 1px solid;
@@ -65,5 +71,10 @@ main {
       height: 35%;
       width: 100%;
     }
+=======
+      color: white;
+      border: 1px solid;
+    }
+>>>>>>> e67417fb4419cb53e753c67ab722aebcac820561
   }
 }
