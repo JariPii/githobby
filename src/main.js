@@ -1,1 +1,1 @@
-console.log('Hello Batman');
+let text = document.querySelector('.text');
